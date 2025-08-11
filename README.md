@@ -2,7 +2,7 @@
 
 This repository contains the simulation files for the paper: **"Improving the Water Jacket Cooling for Flywheel Energy Storage Systems: An Investigation on the Potting and Polyamide-imide/Boron Insulators"**.
 
-*** Repository Language: English
+### Repository Language: English
 
 The study investigates using advanced potting and polymer materials to mitigate hotspots and improve 3-D temperature uniformity in an IPM motor for a Flywheel Energy Storage System (FESS). The goal is to enhance thermal performance without increasing the energy consumption of the water jacket cooling unit.
 
